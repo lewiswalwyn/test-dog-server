@@ -1,0 +1,9 @@
+[
+  { "name": "Theo", "breed": "frenchie", "superpower": "stealing" },
+  {
+    "name": "Rover",
+    "breed": "boston terrier",
+    "superpower": "disappearing act"
+  },
+  { "name": "Zoey", "breed": "golden boi", "superpower": "fulffyness" }
+]
